@@ -1,3 +1,3 @@
 # hello
 
-Initial commit.
+Initial commit!
